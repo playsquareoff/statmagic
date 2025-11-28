@@ -1,0 +1,58 @@
+[
+  {
+    "WK": "4",
+    "DATE": "Sun, Sep 28",
+    "MATCH_UP": "Dallas VS Green Bay",
+    "TIME": "T EST",
+    "GAME_ID": "401772921",
+    "TV": "1-2-1"
+  },
+  {
+    "WK": "13",
+    "DATE": "Thu, Nov 27",
+    "MATCH_UP": "Dallas VS Kansas City",
+    "TIME": "4:30 PM EST",
+    "GAME_ID": "401772694",
+    "TV": "CBSParamount+"
+  },
+  {
+    "WK": "14",
+    "DATE": "Thu, Dec 4",
+    "MATCH_UP": "Dallas @ Detroit",
+    "TIME": "8:15 PM EST",
+    "GAME_ID": "401772947",
+    "TV": "Prime Video"
+  },
+  {
+    "WK": "15",
+    "DATE": "Sun, Dec 14",
+    "MATCH_UP": "Dallas VS Minnesota",
+    "TIME": "8:20 PM EST",
+    "GAME_ID": "401772933",
+    "TV": "NBCPeacock"
+  },
+  {
+    "WK": "16",
+    "DATE": "Sun, Dec 21",
+    "MATCH_UP": "Dallas VS Los Angeles",
+    "TIME": "1:00 PM EST",
+    "GAME_ID": "401772910",
+    "TV": "FOX"
+  },
+  {
+    "WK": "17",
+    "DATE": "Thu, Dec 25",
+    "MATCH_UP": "Dallas @ Washington",
+    "TIME": "1:00 PM EST",
+    "GAME_ID": "401772710",
+    "TV": "Netflix"
+  },
+  {
+    "WK": "18",
+    "DATE": "TBD - Flex Game",
+    "MATCH_UP": "Dallas @ New York",
+    "TIME": "TBD",
+    "GAME_ID": "401772963",
+    "TV": ""
+  }
+]

@@ -1,0 +1,21 @@
+# Copy this file to terraform.tfvars and customize as needed
+# terraform.tfvars is ignored by git (should be in .gitignore)
+
+aws_region = "us-west-2"
+
+lambda_function_name = "scrape-schedule"
+lambda_execution_role_name = "scrape-scores-lambda-role"
+lambda_timeout = 30
+lambda_memory_size = 256
+
+log_level = "INFO"
+log_retention_days = 7
+
+api_name = "scrape"
+api_stage_name = "$default"
+
+# CORS configuration
+cors_allow_origins = ["*"]
+cors_allow_methods = ["GET", "POST", "OPTIONS"]
+cors_allow_headers = ["content-type", "x-amz-date", "authorization", "x-api-key"]
+

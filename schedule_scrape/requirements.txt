@@ -1,0 +1,9 @@
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=4.9.0
+urllib3<2.0
+
+# Optional: Required only for local server mode (--server flag)
+# Not needed for AWS Lambda deployment
+flask>=2.3.0
+
